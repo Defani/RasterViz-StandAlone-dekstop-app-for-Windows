@@ -13,6 +13,7 @@
 ![QtAwesome](https://img.shields.io/badge/QtAwesome-Icons-EA4335)
 
 **RasterViz standalone** Designed for simplicity and speed, it allows users to effortlessly load, style, and compose beautiful, publication-ready maps involving both raster imagery and vector boundaries without the overhead of heavy desktop GIS software.
+<img width="1920" height="1080" alt="Screenshot 2026-07-16 033129" src="https://github.com/user-attachments/assets/700d178c-47ea-484b-a7be-5b57b89a040b" />
 
 ## ✨ Key Features
 
